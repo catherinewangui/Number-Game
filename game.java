@@ -8,6 +8,7 @@ Scanner(System.in);
 
 int number = (int) (Math.random() * 20);
 
+
 int attempts = 5;
 int guess;
 boolean guessed = false;
